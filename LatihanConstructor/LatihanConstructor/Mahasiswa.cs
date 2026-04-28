@@ -23,7 +23,7 @@ namespace LatihanConstructor
             Nim = nim;
             Nama = nama;
             Ipk= ipk;
-          }
+        }
         public string Nim { get; set; }
         public string Nama { get; set;}
     }
